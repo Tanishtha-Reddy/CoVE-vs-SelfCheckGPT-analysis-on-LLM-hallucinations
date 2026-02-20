@@ -18,7 +18,9 @@ A research project to analyze whether SelfCheckGPT and CoVe complement each othe
 ## Results Summary:
 
 
-![Final Summary](final_combined_figure.png)
+<p align="center">
+  <img src="figures/combined_graph_for_analyzed_data" width="80%" alt="Combined summary of detection and mitigation">
+</p>
 
 ## Files & Notebooks
 - `revised_original_dataset.csv` → 30 questions + baselines + manual answers
