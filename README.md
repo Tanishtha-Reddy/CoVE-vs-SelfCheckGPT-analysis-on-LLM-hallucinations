@@ -17,11 +17,10 @@ A research project to analyze whether SelfCheckGPT and CoVe complement each othe
 
 ## Results Summary:
 
+![](https://github.com/Tanishtha-Reddy/CoVE-vs-SelfCheckGPT-analysis-on-LLM-hallucinations/blob/main/figures/combined_graphs_for_analyzed_data.png?raw=true)
 
-<p align="center">
-  <img src="figures/combined_graph_for_analyzed_data" width="80%" alt="Combined summary of detection and mitigation">
-</p>
 
+![](https://github.com/Tanishtha-Reddy/CoVE-vs-SelfCheckGPT-analysis-on-LLM-hallucinations/blob/main/figures/summary_table.png?raw=true)
 ## Files & Notebooks
 - `revised_original_dataset.csv` → 30 questions + baselines + manual answers
 - `result_detection.csv` → SelfCheckGPT scores & flags
