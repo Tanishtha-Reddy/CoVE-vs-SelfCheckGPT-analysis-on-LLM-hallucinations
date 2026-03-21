@@ -10,6 +10,10 @@ A research project to analyze whether SelfCheckGPT and CoVe complement each othe
     - [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/abs/2309.11495)
 - My summaries of each of the papers are available in the /summaries folder
 
+## Article
+- Here is a link to the article I wrote explaining the entire project :
+    - [SelfCheckGPT vs CoVe: Do Detection and Mitigation Actually Work Together on LLM-Generated Code?](https://medium.com/@reddytanishtha/selfcheckgpt-vs-cove-do-detection-and-mitigation-actually-work-together-on-llm-generated-code-620f25ac361d)
+
 ## Overview
 - Generated 30 coding questions using Groq (Llama-3.3-70B)
 - Produced baseline code answers
